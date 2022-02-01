@@ -18,7 +18,7 @@ Aplicação utilizando Spring Boot, Banco de dados H2, JPA e Hibernate.
 **1. Clone a aplicação**
 
 ```bash
-git clone https://github.com/yelken/springboot-crud.git
+git clone https://github.com/virginia-silva/API-REST---JAVA.git
 ```
 
 **2. Modifique o usuário e senha de acordo com a sua instalação**
