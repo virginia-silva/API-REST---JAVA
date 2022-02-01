@@ -1,8 +1,11 @@
-# Spring Boot, H2, JPA, Hibernate Rest API
+# Spring Boot API REST : Construindo uma API
+
++ Criando aplicação Java com o Spring Boot.
++ Configurando a aplicação Spring sem o uso de arquivos XML.
++ Aprendendo o estilo arquitetural REST.
++ Uso de Spring Data e Bean Validation.
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/><img src = "https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
-
-Aplicação utilizando Spring Boot, Banco de dados H2, JPA e Hibernate.
 
 ## Requirements
 
