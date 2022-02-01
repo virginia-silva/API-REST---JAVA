@@ -5,6 +5,15 @@
 + Aprendendo o estilo arquitetural REST.
 + Uso de Spring Data e Bean Validation.
 
+# Spring Boot API REST : Segurança da API, Cache e Monitoramento.
+
++ Paginação e ordenação, os resultados da API.
++ Melhorando o desempenho com Spring Cache.
++ Protege a API com Spring Security e JWT.
++ Monitore os endpoints com Spring Boot Actuator e Admin.
++ Documente a API com Swagger.
+
+
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/><img src = "https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
 
 ## Requirements
@@ -15,8 +24,6 @@
 <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 3. Eclipse - 2021
 <img src= "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
-
-## Passos para o SETUP
 
 **1. Clone a aplicação**
 
@@ -30,20 +37,7 @@ git clone https://github.com/virginia-silva/API-REST---JAVA.git
 
 + modifique `spring.datasource.username` e `spring.datasource.password` de acordo com sua instalação
 
-**3. Build e rode a aplicação usando MAVEN**
-
-```bash
-mvn package
-java -jar target/crud-1.0.0.jar
-```
-
-Alternativamente, você pode rodar dessa forma -
-
-```bash
-mvn spring-boot:run
-```
-
-O app vai rodar nesse endereço <http://localhost:8080>.
++ O app vai rodar nesse endereço <http://localhost:8080>. 
 
 ## Explore as APIs
 
