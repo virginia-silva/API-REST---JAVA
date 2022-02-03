@@ -35,3 +35,4 @@ public class SwaggerConfigurations {
 	}
 
 }
+//http://localhost:8080/swagger-ui.html#/ - Documentação para testar.
